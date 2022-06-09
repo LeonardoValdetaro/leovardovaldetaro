@@ -1,6 +1,6 @@
 ### "Hello there" \o/ 👋
 
-My name is Leonardo Valdetaro, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2018.
+My name is Leonardo Valdetaro, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2016.
 
 Would you like to find me?
 
